@@ -8,13 +8,23 @@ As a data engineer at a data analytics consulting company, I have been assigned 
 In this project, I created a streaming data pipe by performing these steps:
 
 Start a MySQL database server
+
 Create a table to hold the toll data
+
 Start the Kafka server
+
 Install the Kafka Python driver
+
 Install the MySQL Python driver
+
 Create a topic named toll in Kafka
+
 Download the streaming data generator program
+
 Customize the generator program to steam to toll topic
+
 Download and customize streaming data consumer
+
 Customize the consumer program to write into a MySQL database table
+
 Verify that streamed data is being collected in the database table
